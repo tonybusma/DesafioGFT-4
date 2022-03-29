@@ -1,0 +1,16 @@
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+D:\Workspace\C#\DesafioGFT\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+D:\Workspace\C#\DesafioGFT\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache
